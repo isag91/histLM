@@ -13,6 +13,8 @@
     <br/>
 </p>
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/isag91/histLM/mybinder?filepath=https%3A%2F%2Fhub.gke2.mybinder.org%2Fuser%2Fisag91-histlm-q7zov5z7%2Fnotebooks%2Fnotebooks%2FFlair_model.ipynb)
+
 Table of contents
 -----------------
 
