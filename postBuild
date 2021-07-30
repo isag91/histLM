@@ -1,2 +1,4 @@
 wget -q -O https://zenodo.org/record/4782245/files/flair.zip
+wget -q -O https://zenodo.org/record/4782245/files/bert.zip
 unzip flair.zip
+unzip bert.zip
